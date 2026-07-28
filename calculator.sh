@@ -2,3 +2,7 @@
 
 #addition
 x=a+b
+
+#substration
+
+#division
